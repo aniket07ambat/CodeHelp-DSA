@@ -68,7 +68,7 @@ char getMaxOccCharacter(string s) {
         }
     }
     
-
+    
     return 'a'+ans;
 
 }

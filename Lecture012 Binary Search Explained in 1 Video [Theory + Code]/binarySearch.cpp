@@ -42,8 +42,8 @@ int main() {
 
     cout << " Index of 14 is " << oddIndex << endl;
 
-
     return 0;
+    
 }
 
 int findPeak(int arr[], int n) {
